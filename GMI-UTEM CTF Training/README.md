@@ -1,0 +1,1 @@
+GMI conducted an online practical CTF training for GMI and UTEM students. I have an opportunity to join this as GMI alumni. This session focuses on Miscellaneous and Cryptography category. Thanks to Mr Farhan as the instructor and hosting the CTFd platform <3 
